@@ -11,7 +11,7 @@ function App() {
 			<div id="field">
 				<div id="game-container">
 					<div id="game-dialog"></div>
-					<button id="game-reset">Try again</button>
+					<button id="game-reset"></button>
 				</div>
 
 			</div>
